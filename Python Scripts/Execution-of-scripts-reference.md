@@ -1,3 +1,5 @@
+## Script execution and performance 
+
 After obtaining some measurements from the plant and save them on a database table (e.g. mappedsensors table):
 1. Run: database_config.py.
 On this script are defined the require database's tables for the observer, namely:
