@@ -22,6 +22,6 @@ Install MySQL (Create password, the one given on the scripts: admin):
 2. sudo apt-get install mysql-server
 
 ### 3. Run the programs
-Chech the folders on this repository:
+Check the folders on this repository:
 1. Information of the plant used on the Extended kalman filter implementation (dynamics).
 2. Extended kalman filter scripts.
